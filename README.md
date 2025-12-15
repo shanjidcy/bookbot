@@ -1,2 +1,3 @@
 # bookbot
-Takes a book and counts the number of letters and words
+
+BookBot is my first [Boot.dev](https://www.boot.dev) project!
